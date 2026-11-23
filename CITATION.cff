@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "Si utilizas este software, cítalo con estos metadatos."
+title: "Pipeline de Análisis Normativo Automatizado"
+type: software
+authors:
+  - family-names: "Freire Ferrando"
+    given-names: "Manuel"
+    affiliation: "Universidad de Granada"
+version: "1.0.0"
+date-released: "2026-12-01"
+license: MIT
+repository-code: "https://github.com/simropaugr/indice-coherencia-normativa"
+abstract: >-
+  Flujo de trabajo (pipeline) automatizado para la obtención de un índice de coherencia
+  de cualquier texto con un paradigma ideológico o sistema de valores descrito con
+  anterioridad, mediante modelos de lenguaje grande (LLMs) y embeddings. Desarrollado por
+  Manuel Freire Ferrando, con la tutorización de Rosa María Soriano Miras y Harlan Koff,
+  en el marco del proyecto SIMRopa (PID2023-148791NB-I00), financiado por
+  MICIU/AEI/10.13039/501100011033 y por FEDER, UE.
+keywords:
+  - coherencia normativa
+  - sostenibilidad
+  - procesamiento del lenguaje natural
+  - embeddings
+  - modelos de lenguaje
+  - economía circular
+  - coherencia de políticas
+  - industria textil

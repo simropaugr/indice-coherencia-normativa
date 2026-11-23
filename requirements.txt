@@ -1,0 +1,18 @@
+# Análisis y manipulación de datos
+pandas
+numpy
+
+# Machine Learning y matemáticas
+scikit-learn
+
+# Visualización
+matplotlib
+
+# Procesamiento de documentos
+PyMuPDF
+
+# Conexión a modelos de lenguaje (LLM)
+openai
+
+# Entorno de ejecución para los cuadernos
+jupyter
