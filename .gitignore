@@ -1,0 +1,25 @@
+# 1. Caché de Python y compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 2. Entornos de desarrollo y configuraciones locales
+.vscode/
+.idea/
+.ipynb_checkpoints/
+.env
+
+# 3. Datos generados y pesados (control de tamaño y privacidad)
+data/02_interim/
+data/03_manual/*
+!data/03_manual/README.md
+data/04_embeddings/
+data/05_processed/
+
+# Documentos originales (peso o derechos de autor)
+data/01_raw/*.pdf
+
+# 4. Archivos de sistema operativo
+.DS_Store
+Thumbs.db
