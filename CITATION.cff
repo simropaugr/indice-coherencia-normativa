@@ -6,6 +6,7 @@ authors:
   - family-names: "Freire Ferrando"
     given-names: "Manuel"
     affiliation: "Universidad de Granada"
+    orcid: "https://orcid.org/0009-0008-8593-7324"
 version: "1.0.0"
 date-released: "2026-12-01"
 license: MIT
