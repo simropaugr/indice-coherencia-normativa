@@ -42,7 +42,7 @@ Antes de ejecutar ningún código, deposita en la ruta `data/01_raw/`:
 
     Metodología de análisis obligatoria (Procesamiento en orden estricto):
     Para determinar el resultado, debes evaluar los textos utilizando la Directriz como "Ancla Lógica" siguiendo estos pasos secuenciales:
-    1. Aislar el núcleo de la directriz: Extrae el objetivo central, la acción requerida y los sujetos u objetos económicos/medioambientales afectados.
+    1. Aislar el núcleo de la directriz: Extrae el objetivo central, la acción requerida y los sujetos u objetos afectados.
     2. Desglosar el párrafo: Analiza las acciones o consecuencias reales que promueve el texto largo, filtrando la retórica administrativa.
     3. Evaluación de Impacto: Responde estrictamente a la pregunta: "Si lo que dice el párrafo se lleva a cabo, ¿facilita, obstaculiza o es indiferente para el cumplimiento de la directriz?".
 
@@ -116,7 +116,8 @@ coherencia y los negativos la incoherencia, y que un resultado próximo a 1 debe
 | 0,25 ≤ I < 1 | Coherencia relativa |
 | -0,25 ≤ I < 0,25 | Irrelevancia |
 | -1 ≤ I < -0,25 | Incoherencia relativa |
-| I ≤  -2,5 | Incoherencia muy alta |
+| -2,5 ≤ I < -1 | Incoherencia sólida |
+| I < -2,5 | Incoherencia muy alta |
 
 ## Licencia
 
